@@ -1,11 +1,11 @@
 Package: psaid
 Type: Package
-Title: What the Package Does (Title Case)
+Title: PsAid collects functions that I've been using for data handling and psychological data analysis
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Luis M Silva
+Maintainer:Luis M Silva <lmsilvam@zoho.com>
+Description: This includes functions for data cleaning and psych analysis that I keep using over and over so I ended up
+    creating a package so I can include it everywhere. Renaming variables, standardising values, Likert Scales and such.
+License: CC4.0
 Encoding: UTF-8
 LazyData: true
